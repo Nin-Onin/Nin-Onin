@@ -11,12 +11,10 @@
 ---
 
 ### FIELD OF INTEREST:
-
+Software Engineering/Development
 <!DOCTYPE html>
 <html>
-
 <body>
-  <h1>Software Engineering/Development</h1>
   <ul>
     <li>
       Desktop Application Development
