@@ -6,13 +6,15 @@
 
 ---
 
-### I'm Onin
-
+### I'm Niño
+      
 ---
 
 ### FIELD OF INTEREST:
 
-- Software Development
+- Software Engineering/Development
+          -> Desktop Application Development
+          -> Web Application Development
 
 ---
 
