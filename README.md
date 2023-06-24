@@ -12,9 +12,34 @@
 
 ### FIELD OF INTEREST:
 
-- Software Engineering/Development
-          -> Desktop Application Development
-          -> Web Application Development
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Software Engineering/Development</title>
+</head>
+<body>
+  <h1>Software Engineering/Development</h1>
+  <ul>
+    <li>
+      Desktop Application Development
+      <ul>
+        <li>Subcategory 1</li>
+        <li>Subcategory 2</li>
+        <li>Subcategory 3</li>
+      </ul>
+    </li>
+    <li>
+      Web Application Development
+      <ul>
+        <li>Subcategory 1</li>
+        <li>Subcategory 2</li>
+        <li>Subcategory 3</li>
+      </ul>
+    </li>
+  </ul>
+</body>
+</html>
+
 
 ---
 
