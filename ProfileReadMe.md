@@ -6,19 +6,19 @@
 
 ---
 
-### I'm Niño
+## I'm Niño
       
 ---
 
-### FIELD OF INTEREST:
-### - Software Engineering
-### - Software Development
+## FIELD OF INTEREST:
+###    - Software Engineering 
+###    - Software Development
 
 
 
 ---
 
-### FOCUS ON LEARNING:
+## FOCUS ON LEARNING:
 
 <div class="icons-pl">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" title="C++"/>
@@ -33,15 +33,18 @@
 ---
 
 ### SOFTWARE - ENVIRONMENT: 
+
 <div class="icons-pl">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" title="VS-Code"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" title="Visual Studio"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/>
+
   
  ---
 
 ### DESIGNING TOOLS: 
+
 <div class="icons-pl">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" title="Figma"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" title="Canva"/>
