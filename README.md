@@ -11,20 +11,9 @@
 ---
 
 ### FIELD OF INTEREST:
-### Software Engineering/Development
-<!DOCTYPE html>
-<html>
-<body>
-  <ul>
-    <li>
-      Desktop Application Development
-    </li>
-    <li>
-      Web Application Development
-    </li>
-  </ul>
-</body>
-</html>
+### - Software Engineering
+### - Software Development
+
 
 
 ---
