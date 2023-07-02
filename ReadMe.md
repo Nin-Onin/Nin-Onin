@@ -1,15 +1,13 @@
 
 ---
-                        ＴＨＥ   ＥＸＰＥＲＴ   ＯＦ   ＡＮＹＴＨＩＮＧ   ＷＡＳ   ＯＮＣＥ   Ａ   ＢＥＧＩＮＮＥＲ
+                         ＴＨＥ   ＥＸＰＥＲＴ   ＯＦ   ＡＮＹＴＨＩＮＧ   ＷＡＳ   ＯＮＣＥ   Ａ   ＢＥＧＩＮＮＥＲ
 ---
 
-### I'm Niño
+### I'M NIÑO
 
 
 ---
-### FIELD OF INTEREST:
-###    - Software Engineering 
-###   - Software Development
+### PRACTISING SOFTWARE DEVELOPMENT LIFE CYCLE
 
 
 ---
