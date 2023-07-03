@@ -1,15 +1,16 @@
 
 ---
-                         ＴＨＥ   ＥＸＰＥＲＴ   ＯＦ   ＡＮＹＴＨＩＮＧ   ＷＡＳ   ＯＮＣＥ   Ａ   ＢＥＧＩＮＮＥＲ
----
-
-### I'M NIÑO
+### I'm Onin
 
 
+At present, I am in the process of exploring various fields within computer science in order to ascertain the area in which I would like to specialize.
+
+
 ---
-                            ＰＲＡＣＴＩＳＩＮＧ　ＳＯＦＴＷＡＲＥ　ＤＥＶＥＬＯＰＭＥＮＴ　ＬＩＦＥ　ＣＹＣＬＥ
+                    Ｅ Ｎ Ｈ Ａ Ｎ Ｃ Ｉ Ｎ Ｇ   Ｓ Ｏ Ｆ Ｔ Ｗ Ａ Ｒ Ｅ   Ｄ Ｅ Ｖ Ｅ Ｌ Ｏ Ｐ Ｍ Ｅ Ｎ Ｔ   Ｓ Ｋ Ｉ Ｌ Ｌ Ｓ
+
 ---
-### FOCUS ON LEARNING:
+### CURRENTLY USING:
  <div class="icons-pl">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" title="C++"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" title="CSharp"/>
