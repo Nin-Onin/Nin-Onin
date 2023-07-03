@@ -3,7 +3,7 @@
 ### I'm Niño
 
 
-At present, I am in the process of exploring various fields within computer science in order to ascertain the area in which I would like to specialize.
+At present, I am in the process of exploring various fields within Computer Science in order to ascertain the area in which I would like to specialize.
 
 
 ---
