@@ -1,5 +1,5 @@
 
-Just spending my time at <a href="https://www.chess.com/play/online">chess.com</a>
+Just spending my time at <a href="https://www.chess.com/play/online">chess.com</a> and <a href="https://lichess.org">lichess.org</a>
 
 ---
 
