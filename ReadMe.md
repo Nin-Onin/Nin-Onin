@@ -1,5 +1,4 @@
 
-
 Just spending my time at <a href="https://www.chess.com/play/online">chess.com</a>
 
 ---
