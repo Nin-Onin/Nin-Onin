@@ -71,7 +71,7 @@ const portfolioData = {
   ],
 
   certifications: [
-    { name: "DICT Diagnostic Exam Passer", issuer: "Department. of Information and Communication Technology", link: null },
+    { name: "DICT Diagnostic Exam Passer", issuer: "Department. of Information and Communication Technology", link: "https://drive.google.com/file/d/1IczJzW62iNytZqSTqLSzLu4etOOGc2wl/view?usp=sharing" },
     { name: "On-The-Job Training Course", issuer: "CVISNET Foundation Inc.", link: "https://drive.google.com/file/d/1dwyV3oXJaFszv1HR9wsErAkTXfsLHIph/view?usp=sharing" },
     { name: "Machine Learning 101: Demystifying the Magic", issuer: "XALTIUS PTE. LTD.", link: "https://drive.google.com/file/d/1kc8jAYkyMF1hv2FaVCJUtjade_Jqy_-i/view?usp=sharing" },
     { name: "Fundamentals of Python Programming", issuer: "Data Analytics Philippines", link: "https://drive.google.com/file/d/1gWLsBF5mzV2TiYo2UJNtExpKvPDwqeqp/view?usp=sharing" },
