@@ -46,7 +46,7 @@ const portfolioData = {
       desc: "Phytoplasma disease recognition for cassava — offline Android application.",
       tags: ["Python", "OpenCV", "NumPy", "Scikit-Learn", "Pre-Trained Models", "Keras", "TensorFlow", "TFLite", "Flutter", "Dart", "Android SDK"],
       repoUrl: "https://github.com/Nin-Onin/PhytoScan",
-      paperUrl: "https://drive.google.com/file/d/1lYNx_N9qxb5O8jjPd_rPMFuQFNHbcu5F/view?usp=sharing",
+      paperUrl: "https://drive.google.com/file/d/1oqo31XbOFRDcjoHEuZBLGNElOg3wckOD/view?usp=sharing",
       appUrl: "https://github.com/Nin-Onin/PhytoScan/releases/download/v1.0.0/app-release.apk",
     },
     
@@ -56,6 +56,7 @@ const portfolioData = {
       alt: "GymGenius desktop app interface",
       desc: "Desktop gym management system — automate membership registration, scheduling, payment processing, equipment management, and customer and gym staff database management.",
       tags: ["C#", ".NET Framework", "SQLite", "Figma", "SDLC", "Object - Oriented Approach"],
+      paperUrl: "https://drive.google.com/file/d/1C4VZLt5vF0qLtCVDgMUcaXwtIPXNMykR/view?usp=sharing",
       repoUrl: "https://github.com/Nin-Onin/GymGenius",
     },
     {
