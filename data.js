@@ -4,7 +4,7 @@ const portfolioData = {
     name: "Niño Austria",
     photo: "assets/profile.jpg",
     location: "Biliran, Philippines",
-    roles: "MACHINE LEARNING ENGINEER · DATA SCIENTIST",
+    roles: "AI/MACHINE LEARNING ENGINEER · DATA SCIENTIST · SOFTWARE ENGINEER",
     resumeUrl: "assets/Austria_Resume.pdf",
     email: "oninaustria100@gmail.com",
     phone: "+63 938 364 0190",
