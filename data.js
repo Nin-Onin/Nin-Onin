@@ -4,7 +4,7 @@ const portfolioData = {
     name: "Niño Austria",
     photo: "assets/profile.jpg",
     location: "Biliran, Philippines",
-    roles: "AI/MACHINE LEARNING ENGINEER · DATA SCIENTIST · SOFTWARE ENGINEER",
+    roles: "AI/MACHINE LEARNING ENGINEER · SOFTWARE ENGINEER",
     resumeUrl: "assets/Austria_Resume.pdf",
     email: "oninaustria100@gmail.com",
     phone: "+63 938 364 0190",
@@ -12,7 +12,7 @@ const portfolioData = {
 
  about: [
     "Computer Science graduate with experience applying Machine Learning and Deep Learning algorithms to build models and develop intelligent systems that solve real-world problems. Driven to expand my technical expertise and contribute meaningfully within a collaborative development team.",
-    "I enjoy working across the full model development pipeline — from raw dataset collection, data cleaning, and feature extraction, to training and optimizing ML/DL algorithms, through to evaluation. I am currently seeking opportunities as a <strong>Junior AI/ML Engineer or Data Scientist</strong>, where I can apply my analytical and technical skills to develop data-driven solutions, gain hands-on industry experience, and contribute to innovative projects.",
+    "I enjoy working across the full model development pipeline — from raw dataset collection, data cleaning, and feature extraction, to training and optimizing ML/DL algorithms, through to evaluation. I am currently seeking opportunities as a <strong>Junior AI/ML Engineer / Software Engineer</strong>, where I can apply my analytical and technical skills to develop data-driven solutions, gain hands-on industry experience, and contribute to innovative projects.",
   ],
 
   education: {
