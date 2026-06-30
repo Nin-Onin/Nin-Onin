@@ -25,15 +25,14 @@ const portfolioData = {
   },
 
   techStack: [
-    { label: "Languages", items: ["C / C++", "Python", "Java"] },
+    { label: "Languages", items: ["C / C++", "Python"] },
     {
       label: "Frameworks &amp; Libraries",
-      items: ["TensorFlow", "Keras", "OpenCV", "NumPy", "Pandas", "Matplotlib", "Scikit-Learn", "Flutter", "Laravel"],
+      items: ["TensorFlow", "Keras", "OpenCV", "NumPy", "Pandas", "Matplotlib", "Scikit-Learn"],
     },
     { label: "Database", items: ["MySQL"] },
     { label: "Tools &amp; Platforms", items: ["GitHub", "Figma", "VS Code", "Jupyter Notebook", "Google Colab"] },
-    { label: "AI &amp; ML", items: ["Deep Learning", "Machine Learning", "Image Processing", "Feature Extraction", "Extract Transform Load (ETL)"] },
-    { label: "Methodologies", items: ["SDLC", "MVC Architecture", "OOP"] },
+    { label: "AI &amp; ML", items: ["Machine Learning", "Image Processing", "Extract Transform Load (ETL)"] },
     { label: "AI-Assisted Tools", items: ["Claude Code", "ChatGPT", "Gemini"] },
   ],
 
