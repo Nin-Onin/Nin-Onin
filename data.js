@@ -3,7 +3,7 @@ const portfolioData = {
   profile: {
     name: "Niño Austria",
     photo: "assets/profile.jpg",
-    location: "Biliran, Philippines",
+    location: "Caloocan City, Metro Manila, Philippines",
     roles: "AI/MACHINE LEARNING ENGINEER · SOFTWARE ENGINEER",
     resumeUrl: "assets/Austria_Resume.pdf",
     email: "oninaustria100@gmail.com",
@@ -11,7 +11,7 @@ const portfolioData = {
   },
 
  about: [
-    "Computer Science graduate with experience applying Machine Learning and Deep Learning algorithms to build models and develop intelligent systems that solve real-world problems. Driven to expand my technical expertise and contribute meaningfully within a collaborative development team.",
+    "Computer Science graduate with experience of Software Engineering and applying ML/DL algorithms to build models and develop intelligent systems that solve real-world problems. Driven to expand my technical expertise and contribute meaningfully within a collaborative development team.",
     "I enjoy working across the full model development pipeline — from raw dataset collection, data cleaning, and feature extraction, to training and optimizing ML/DL algorithms, through to evaluation. I am currently seeking opportunities as a <strong>Junior AI/ML Engineer / Software Engineer</strong>, where I can apply my analytical and technical skills to develop data-driven solutions, gain hands-on industry experience, and contribute to innovative projects.",
   ],
 
@@ -25,16 +25,16 @@ const portfolioData = {
   },
 
   techStack: [
-    { label: "Languages", items: ["C / C++", "Python", "Java"] },
+    { label: "Languages", items: ["C / C++", "Python", "Java", "C#", "Dart", "HTML/CSS"] },
     {
       label: "Frameworks &amp; Libraries",
-      items: ["TensorFlow", "Keras", "OpenCV", "NumPy", "Pandas", "Matplotlib", "Scikit-Learn", "Flutter", "Laravel"],
+      items: ["Laravel", "Flutter", "Tailwind CSS", "TensorFlow", "Keras", "OpenCV", "NumPy", "Matplotlib", "Scikit-Learn"],
     },
-    { label: "Database", items: ["MySQL"] },
-    { label: "Tools &amp; Platforms", items: ["GitHub", "Figma", "VS Code", "Jupyter Notebook", "Google Colab"] },
-    { label: "AI &amp; ML", items: ["Deep Learning", "Machine Learning", "Image Processing", "Feature Extraction", "Extract Transform Load (ETL)"] },
-    { label: "Methodologies", items: ["SDLC", "MVC Architecture", "OOP"] },
-    { label: "AI-Assisted Tools", items: ["Claude Code", "ChatGPT", "Gemini"] },
+    { label: "Database", items: ["MySQL", "SQLite"] },
+    { label: "Tools &amp; Platforms", items: ["Git & GitHub", "Figma", "VS Code", "Jupyter Notebook", "Google Colab"] },
+    { label: "AI &amp; ML", items: ["Deep Learning", "Machine Learning", "Deep Learning", "Image Processing", "Extract Transform Load (ETL)"] },
+    { label: "Methodologies", items: ["SDLC", "MVC Architecture", "Object-Oriented Programming"] },
+    { label: "AI-Assisted Tools", items: ["Claude", "ChatGPT", "Gemini"] },
   ],
 
   work: [
