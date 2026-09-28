@@ -25,7 +25,7 @@ const portfolioData = {
   },
 
   techStack: [
-    { label: "Languages", items: ["C, C++", "Python", "C#", "PHP", "Dart", "HTML, CSS"] },
+    { label: "Languages", items: ["C", "C++", "Python", "C#", "PHP", "Dart", "HTML", "CSS"] },
     {
       label: "Frameworks &amp; Libraries",
       items: ["Laravel", "Flutter", "Tailwind CSS", "TensorFlow", "Keras", "OpenCV", "NumPy", "Matplotlib", "Scikit-Learn"],
